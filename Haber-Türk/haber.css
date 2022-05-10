@@ -1,0 +1,226 @@
+.merkez{
+    width: 100%;
+    height: 900px;
+    background-color: white;
+}
+.üst{
+    width: 100%;
+    height: 10%;
+    background-color: red;
+    position: relative;
+    top: 30px;
+    z-index: 2;
+    float: left;
+}
+.ust{
+    width: 100%;
+    height: 10%;
+    background-color: white;
+    border: 1px solid white;
+    position: relative;
+    top: 30px;
+    z-index: 1;
+    float: left;
+}
+a{text-decoration: none; color: black; font-weight: bolder;}
+a:hover{color: red; font-size: 30px;}
+.gündem{
+    position: absolute;
+    top: 40%;
+    left: 1%;
+    font-size: 30px;
+
+}
+.ekonomi{
+    position: absolute;
+    top: 40%;
+    left: 11%;
+    font-size: 30px;
+}
+.dünya{
+    position: absolute;
+    top: 40%;
+    left: 21%;
+    font-size: 30px;
+}
+.spor{
+    position: absolute;
+    top: 40%;
+    left: 31%;
+    font-size: 30px;
+}
+.magazin{
+    position: absolute;
+    top: 40%;
+    left: 41%;
+    font-size: 30px;
+}
+.kadın{
+    position: absolute;
+    top: 40%;
+    left: 51%;
+    font-size: 30px;;
+}
+.sağlık{
+    position: absolute;
+    top: 40%;
+    left: 61%;
+    font-size: 30px;
+}
+.yazarlar{
+    position: absolute;
+    top: 40%;
+    left: 71%;
+    font-size: 30px;
+}
+.teknoloji{
+    position: absolute;
+    top: 40%;
+    left: 81%;
+    font-size: 30px;
+}
+.video{
+    position: absolute;
+    top: 40%;
+    left: 91%;
+    font-size: 30px;
+}
+.orta{
+
+    width: 100%;
+    height: 350px;
+    position: relative;
+    top: 220px;
+}
+.h1{
+    background-image: url(Karadağ-Türkiye\ maçını\,\ Alman\ hakem.jpg);
+    width: 21%;
+    height: 300px;
+    position: absolute;
+    top: 7%;
+    left: 1%;
+}
+.h1:hover{
+    width: 22.2%;
+    height: 310.9px;
+}
+.h1y{
+    font-size: 35px;
+    color: white;
+    font-weight:lighter;
+    position: relative;
+    top: 65%;
+    left: 30px;
+}
+
+.h2{
+    background-image: url(İran.jpg);
+    width: 22%;
+    height: 300px;
+    position: absolute;
+    top: 7%;
+    left: 25%;
+}
+.h2:hover{
+    width: 22.2%;
+    height: 310.9px;
+}
+.h2y{
+    font-size: 35px;
+    color: white;
+    font-weight:lighter;
+    position: relative;
+    top: 65%;
+    left: 30px;
+}
+.h3{
+    background-image: url(putin\ göçmen\ krizine\ ilişkin\ konuştu.jpg);
+    width: 22%;
+    height: 300px;
+    position: absolute;
+    top: 7%;
+    left: 50%;
+}
+.h3:hover{
+    width: 22.2%;
+    height: 310.9px;
+}
+.h3y{
+    font-size: 35px;
+    color: white;
+    font-weight:lighter;
+    position: relative;
+    top: 65%;
+    left: 30px;
+}
+.h4{
+    background-image: url(minibüs.jpg);
+    width: 22%;
+    height: 300px;
+    position: absolute;
+    top: 7%;
+    left: 75%;
+}
+.h4:hover{
+    width: 22.2%;
+    height: 310.9px;
+}
+.h4y{
+    font-size: 35px;
+    color: white;
+    font-weight:lighter;
+    position: relative;
+    top: 65%;
+    left: 30px;
+}
+.sondk{
+    width: 80%;
+    height: 150px;
+    position: relative;
+    top: 100%;
+    left: 10%;
+}
+.sondakika{
+    float: left;
+    position: relative;
+    top: -90%;
+    left: 8%;
+    font-size: 30px;
+    font-weight: bold;
+    color: red;
+}
+.yol{
+    float: left;
+    font-size: 30px;
+    position: relative;
+    top: -90%;
+    left: 15%;
+}
+.hava{
+    float: left;
+    font-size: 50px;
+    color: lightseagreen;
+    position: relative;
+    top: -95%;
+    left: 25%;
+}
+.derece{
+    font-weight: bold;
+    color: black;
+    position: relative;
+}
+.ist{
+    font-weight: bold;
+    font-size: 25px;
+    color: black;
+    position: relative;
+    top: -30px;
+}
+.az{
+    font-weight: normal;
+    font-size: 17px;
+    color: black;
+    position: relative;
+    left: -110px;
+    top: -5px;
+}
